@@ -1,0 +1,3 @@
+# exercicio-horas
+
+Projeto JavaScript
